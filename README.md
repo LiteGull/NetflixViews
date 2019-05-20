@@ -7,13 +7,13 @@ do the hard work for you.
 
 ### Prerequisites
 
-- NetflixViewingHistory.csv (File downloaded from (here)[https://www.netflix.com/viewingactivity].)
+- NetflixViewingHistory.csv (File downloaded from [here](https://www.netflix.com/viewingactivity).)
   Store this somewhere in the home directory.
 - Python3
 
-As long as the file downloaded from Netflix is called 'NetflixViewingHistory.csv'
+As long as the file downloaded from Netflix is called `NetflixViewingHistory.csv`
 and is stored in the home directory then it will go to work.
 
 Firstly, it will print out the amount of unique shows, then it will create a new
-file in the same directory called 'NetflixIndividualViewingHistory.csv', in here
+file in the same directory called `NetflixIndividualViewingHistory.csv`, in here
 is a list of each individual show from the list.
